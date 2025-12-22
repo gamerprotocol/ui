@@ -94,7 +94,7 @@
     "lint-staged": "^16.2.7",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "react-native": "^0.82.1",
+    "react-native": "^0.83.1",
     "tsup": "^8.3.0",
     "typescript": "^5.9.3",
     "vitest": "^4.0.14"
