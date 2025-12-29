@@ -70,7 +70,7 @@
   "dependencies": {
     "@tanstack/react-query": "^5.90.11",
     "axios": "^1.13.2",
-    "laravel-echo": "^2.2.6",
+    "laravel-echo": "^2.2.7",
     "pusher-js": "^8.4.0-rc2"
   },
   "devDependencies": {
